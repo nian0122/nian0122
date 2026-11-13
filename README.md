@@ -1,4 +1,4 @@
-<a href="https://github.com/nian0122/ComicAtlas"><img align="right" width="44%" src="./assets/comicatlas-cover.webp" alt="ComicAtlas — an illustrated comic book opening into a miniature city"></a>
+<img align="right" width="44%" src="https://raw.githubusercontent.com/FernandoRoldan93/FernandoRoldan93/master/cover_image.jpg" alt="Cover illustration by IreneHerrerart">
 
 ### Hi there 👋
 ### This is nian0122!
@@ -14,3 +14,5 @@ Java backend developer · Shanghai
 #### Projects
 
 [ComicAtlas](https://github.com/nian0122/ComicAtlas) · [RAG Diabetes Assistant](https://github.com/nian0122/RAG-Diabetes-Assistant)
+
+<sub>Cover illustration by <a href="https://www.artstation.com/ireneherrera">IreneHerrerart</a>.</sub>
