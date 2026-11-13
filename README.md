@@ -101,11 +101,18 @@ An AI-assisted medical knowledge retrieval and question-answering system develop
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nian0122&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nian0122&layout=compact&hide_border=true&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nian0122&theme=transparent&hide_border=true)
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api?username=nian0122&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nian0122&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
