@@ -1,17 +1,16 @@
-# nian0122
+<a href="https://github.com/nian0122/ComicAtlas"><img align="right" width="44%" src="./assets/comicatlas-cover.webp" alt="ComicAtlas — an illustrated comic book opening into a miniature city"></a>
 
-**Java backend developer** · Shanghai
+### Hi there 👋
+### This is nian0122!
 
-## [ComicAtlas](https://github.com/nian0122/ComicAtlas)
+Java backend developer · Shanghai
 
-[![An open comic book with a miniature city rising from its pages](./assets/comicatlas-cover.webp)](https://github.com/nian0122/ComicAtlas)
+[![GitHub: nian0122](https://img.shields.io/badge/GitHub-nian0122-24292f?style=flat&logo=github&logoColor=white)](https://github.com/nian0122)
 
-Self-hosted comic library · Go / SQLite / Vue
+#### Programming languages and tools
 
-## Backend work
+<img alt="Java" src="https://img.shields.io/badge/Java-334155?logo=openjdk&amp;logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-334155?logo=python&amp;logoColor=white"><br><img alt="MySQL" src="https://img.shields.io/badge/MySQL-334155?logo=mysql&amp;logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-334155?logo=git&amp;logoColor=white">
 
-**~5 hours → 10–20 minutes**<br>Reward batch · ~20,000 members and ~20,000 orders<br>Java / Spring Boot / MySQL / ActiveMQ
+#### Projects
 
-## [RAG Diabetes Assistant](https://github.com/nian0122/RAG-Diabetes-Assistant)
-
-Undergraduate project · Spring Boot / LangChain4j / Chroma
+[ComicAtlas](https://github.com/nian0122/ComicAtlas) · [RAG Diabetes Assistant](https://github.com/nian0122/RAG-Diabetes-Assistant)
